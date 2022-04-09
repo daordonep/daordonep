@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Angular.**
 
+- 🔭 I’m currently working on [ExpensesApp](https://github.com/daordonep/ExpensesApp)
+
 - 💬 Ask me about **Java and backend lenguages**
 
 - 📫 How to reach me **damianordonezp@gmail.com**
