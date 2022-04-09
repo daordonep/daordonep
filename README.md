@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damián Ordóñez Palazón</h1>
 <h3 align="center">I'm from Spain and have 24 years old. I'm a backend developer who develops mostly in Java.</h3>
 
-- 🔭 I’m currently working on [my portfolio website](dharianop.com)
+- 🔭 I’m currently working on [ExpensesApp]
 
 - 🌱 I’m currently learning **Angular.**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/damián ordoñez palazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damián ordoñez palazon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dami%C3%A1n-ord%C3%B3%C3%B1ez-palaz%C3%B3n-38b657187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damián ordoñez palazon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
