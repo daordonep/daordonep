@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damián Ordóñez Palazón</h1>
 <h3 align="center">I'm from Spain and have 24 years old. I'm a backend developer who develops mostly in Java.</h3>
 
-- 🔭 I’m currently working on [ExpensesApp]
 
 - 🌱 I’m currently learning **Angular.**
 
