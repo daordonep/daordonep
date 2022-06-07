@@ -2,9 +2,9 @@
 <h3 align="center">I'm from Spain and have 24 years old. I'm a backend developer who develops mostly in Java.</h3>
 
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **AWS.**
 
-- 🔭 I’m currently working on [ExpensesApp](https://github.com/daordonep/ExpensesApp)
+- 🔭 I’m currently working on --
 
 - 💬 Ask me about **Java and backend lenguages**
 
